@@ -83,7 +83,7 @@ fun HomeScreen(
         selectedBottomRoute = CareTailRoute.Home.route,
         topBar = {
             CareTailTopBar(
-                title = "CareTail",
+                title = "PawFolio",
                 showAvatar = true,
                 showSettings = true,
                 onSettings = { onNavigate(CareTailRoute.Settings.route) },
@@ -97,7 +97,7 @@ fun HomeScreen(
                 .padding(horizontal = 20.dp, vertical = 14.dp),
         ) {
             Text(
-                if (uiState.pets.isEmpty()) "Welcome to CareTail" else "Welcome back",
+                if (uiState.pets.isEmpty()) "Welcome to PawFolio" else "Welcome back",
                 style = MaterialTheme.typography.headlineMedium,
                 color = CareTailTextPrimary,
             )
