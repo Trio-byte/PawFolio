@@ -10,15 +10,7 @@ Pet-care information often ends up split between memory, calendars, paper record
 
 The product is designed for individual pet owners, including multi-pet households. It is a care-organisation tool, not veterinary advice, diagnosis, or treatment.
 
-## Screenshots
 
-These are real application screenshots stored in the repository.
-
-<p align="center">
-  <img src="public/caretail/screenshots/raw/caretail-01-home-dashboard.png" alt="CareTail home dashboard" width="230" />
-  <img src="public/caretail/screenshots/raw/caretail-03-reminders-list.png" alt="CareTail reminders list" width="230" />
-  <img src="public/caretail/screenshots/raw/caretail-05-diary-notes.png" alt="CareTail health diary" width="230" />
-</p>
 
 ## Implemented product capabilities
 
